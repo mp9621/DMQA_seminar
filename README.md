@@ -7,13 +7,9 @@
 - Contents
 
   Introduction
-
   Audio data
-  
   Feature engineering for audio data
-  
   Transformer for audio data
-  
   Conclusion
   
 - seminar video: <http://dmqm.korea.ac.kr/activity/seminar/359>
